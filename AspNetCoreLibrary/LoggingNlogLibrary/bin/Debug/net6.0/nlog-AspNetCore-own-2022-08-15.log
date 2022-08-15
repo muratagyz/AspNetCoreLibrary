@@ -1,0 +1,88 @@
+2022-08-15 18:23:36.7808|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:23:36.8078|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:23:36.8078|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:23:36.8078|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:23:36.8078|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:23:37.5619|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController.Index
+2022-08-15 18:26:34.8445|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:26:34.8611|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:26:34.8611|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:26:34.8649|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:26:34.8649|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:26:35.7171|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController.Index
+2022-08-15 18:29:24.7305|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:29:24.7507|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:29:24.7507|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:29:24.7555|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:29:24.7555|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:29:25.4075|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController.Index
+2022-08-15 18:29:54.4912|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:29:54.5158|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:29:54.5158|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:29:54.5203|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:29:54.5203|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:29:56.1515|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController..ctor
+2022-08-15 18:29:56.1515|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController.Index
+2022-08-15 18:30:16.3025|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController..ctor
+2022-08-15 18:30:16.3025|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController.Index
+2022-08-15 18:31:32.5563|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:31:32.5734|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:31:32.5734|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:31:32.5734|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:31:32.5734|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:31:33.5213|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController..ctor
+2022-08-15 18:31:33.5213|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController.Index
+2022-08-15 18:31:40.4977|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController..ctor
+2022-08-15 18:31:40.4977|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController.Index
+2022-08-15 18:31:40.6450|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController..ctor
+2022-08-15 18:31:40.6450|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController.Index
+2022-08-15 18:31:40.7795|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController..ctor
+2022-08-15 18:31:40.7795|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController.Index
+2022-08-15 18:31:40.9320|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController..ctor
+2022-08-15 18:31:40.9320|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController.Index
+2022-08-15 18:31:41.0729|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController..ctor
+2022-08-15 18:31:41.0729|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController.Index
+2022-08-15 18:31:41.2155|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController..ctor
+2022-08-15 18:31:41.2155|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController.Index
+2022-08-15 18:32:01.9549|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:32:01.9830|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:32:01.9830|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:32:01.9892|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:32:01.9892|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:32:02.8755|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController..ctor
+2022-08-15 18:32:02.8815|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController.Index
+2022-08-15 18:32:29.4719|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:32:29.4876|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:32:29.4890|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:32:29.4890|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:32:29.4890|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:32:30.3450|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController..ctor
+2022-08-15 18:32:30.3501|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController.Index
+2022-08-15 18:33:00.1493|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:33:00.1726|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:33:00.1726|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:33:00.1778|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:33:00.1778|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:33:01.1161|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController..ctor
+2022-08-15 18:33:01.1161|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController.Index
+2022-08-15 18:34:32.1129|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:34:32.1283|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:34:32.1302|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:34:32.1302|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:34:32.1302|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:34:33.0228|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController..ctor
+2022-08-15 18:34:33.0228|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController.Index
+2022-08-15 18:35:15.4404|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:35:15.4615|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:35:15.4615|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:35:15.4615|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:35:15.4615|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:35:16.0881|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController..ctor
+2022-08-15 18:35:16.0881|0|WARN|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController.Index
+2022-08-15 18:37:36.8904|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:37:36.9086|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-08-15 18:37:36.9107|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:37:36.9107|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:37:36.9107|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-08-15 18:37:37.7517|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController..ctor
+2022-08-15 18:37:38.5887|0|WARN|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|LoggingNlogLibrary.Controllers.HomeController.Index

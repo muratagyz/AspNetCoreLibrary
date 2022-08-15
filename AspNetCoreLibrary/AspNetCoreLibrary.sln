@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32611.2
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmidgeApp", "SmidgeApp\SmidgeApp.csproj", "{62FF808D-A2D6-4004-ADAA-E90941DBB7CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmidgeApp", "SmidgeApp\SmidgeApp.csproj", "{62FF808D-A2D6-4004-ADAA-E90941DBB7CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logging", "Logging\Logging.csproj", "{5E587CDD-568C-4AEE-A36E-CF7336D65742}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingNlogLibrary", "LoggingNlogLibrary\LoggingNlogLibrary.csproj", "{23E3ABC6-4A1E-436E-AEDC-2586D733F03C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{62FF808D-A2D6-4004-ADAA-E90941DBB7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62FF808D-A2D6-4004-ADAA-E90941DBB7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62FF808D-A2D6-4004-ADAA-E90941DBB7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E587CDD-568C-4AEE-A36E-CF7336D65742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E587CDD-568C-4AEE-A36E-CF7336D65742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E587CDD-568C-4AEE-A36E-CF7336D65742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E587CDD-568C-4AEE-A36E-CF7336D65742}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23E3ABC6-4A1E-436E-AEDC-2586D733F03C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E3ABC6-4A1E-436E-AEDC-2586D733F03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E3ABC6-4A1E-436E-AEDC-2586D733F03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E3ABC6-4A1E-436E-AEDC-2586D733F03C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
