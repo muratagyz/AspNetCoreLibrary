@@ -1,0 +1,339 @@
+2022-08-15 18:23:36.5431|63|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\mrtag\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2022-08-15 18:23:36.7808|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 
+2022-08-15 18:23:36.8078|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 
+2022-08-15 18:23:36.8078|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-08-15 18:23:36.8078|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-08-15 18:23:36.8078|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ 
+2022-08-15 18:23:37.4493|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/ - - 
+2022-08-15 18:23:37.5097|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:23:37.5619|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller LoggingNlogLibrary.Controllers.HomeController (LoggingNlogLibrary). 
+2022-08-15 18:23:37.5619|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! 
+2022-08-15 18:23:37.5782|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2022-08-15 18:23:37.8147|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 234.7384ms. 
+2022-08-15 18:23:37.8271|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary) in 264.3693ms 
+2022-08-15 18:23:37.8271|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:23:37.9020|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - 
+2022-08-15 18:23:37.9020|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - 
+2022-08-15 18:23:37.9020|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/ - - - 200 - text/html;+charset=utf-8 455.2126ms 
+2022-08-15 18:23:37.9271|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 25.0831ms 
+2022-08-15 18:23:37.9477|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 45.6910ms 
+2022-08-15 18:26:34.4681|63|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\mrtag\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2022-08-15 18:26:34.8445|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 
+2022-08-15 18:26:34.8611|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 
+2022-08-15 18:26:34.8611|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-08-15 18:26:34.8649|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-08-15 18:26:34.8649|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ 
+2022-08-15 18:26:35.5859|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/ - - 
+2022-08-15 18:26:35.6722|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:26:35.7171|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller LoggingNlogLibrary.Controllers.HomeController (LoggingNlogLibrary). 
+2022-08-15 18:26:35.7171|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! 
+2022-08-15 18:26:35.7374|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2022-08-15 18:26:35.9641|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 232.9796ms. 
+2022-08-15 18:26:35.9641|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary) in 253.5146ms 
+2022-08-15 18:26:35.9641|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:26:36.0228|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/ - - - 200 - text/html;+charset=utf-8 442.5052ms 
+2022-08-15 18:26:36.0228|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - 
+2022-08-15 18:26:36.0228|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - 
+2022-08-15 18:26:36.0428|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 18.5832ms 
+2022-08-15 18:26:36.0510|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 26.7615ms 
+2022-08-15 18:29:24.4782|63|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\mrtag\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2022-08-15 18:29:24.7305|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 
+2022-08-15 18:29:24.7507|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 
+2022-08-15 18:29:24.7507|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-08-15 18:29:24.7555|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-08-15 18:29:24.7555|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ 
+2022-08-15 18:29:25.3041|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/ - - 
+2022-08-15 18:29:25.3714|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:29:25.4075|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller LoggingNlogLibrary.Controllers.HomeController (LoggingNlogLibrary). 
+2022-08-15 18:29:25.4075|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! 
+2022-08-15 18:29:25.4219|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2022-08-15 18:29:25.6113|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 191.2478ms. 
+2022-08-15 18:29:25.6177|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary) in 209.8233ms 
+2022-08-15 18:29:25.6177|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:29:25.6561|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - 
+2022-08-15 18:29:25.6561|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - 
+2022-08-15 18:29:25.6561|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/ - - - 200 - text/html;+charset=utf-8 357.4326ms 
+2022-08-15 18:29:25.6700|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 13.7156ms 
+2022-08-15 18:29:25.6839|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 27.7911ms 
+2022-08-15 18:29:54.1853|63|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\mrtag\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2022-08-15 18:29:54.4912|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 
+2022-08-15 18:29:54.5158|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 
+2022-08-15 18:29:54.5158|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-08-15 18:29:54.5203|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-08-15 18:29:54.5203|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ 
+2022-08-15 18:29:55.1598|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/ - - 
+2022-08-15 18:29:56.1112|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:29:56.1515|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller LoggingNlogLibrary.Controllers.HomeController (LoggingNlogLibrary). 
+2022-08-15 18:29:56.1515|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController 
+2022-08-15 18:29:56.1515|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! 
+2022-08-15 18:29:56.1647|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2022-08-15 18:29:56.3789|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 214.5124ms. 
+2022-08-15 18:29:56.3857|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary) in 233.8762ms 
+2022-08-15 18:29:56.3857|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:29:56.4253|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/LoggingNlogLibrary.styles.css?v=71XsqcOYfc-y2yJEQwHXcCoypqH6Syssluq71eWcHLE - - 
+2022-08-15 18:29:56.4253|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - 
+2022-08-15 18:29:56.4253|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - 
+2022-08-15 18:29:56.4279|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/ - - - 200 - text/html;+charset=utf-8 1270.3263ms 
+2022-08-15 18:29:56.4279|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 14.6612ms 
+2022-08-15 18:29:56.4435|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /LoggingNlogLibrary.styles.css was not modified 
+2022-08-15 18:29:56.4435|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/LoggingNlogLibrary.styles.css?v=71XsqcOYfc-y2yJEQwHXcCoypqH6Syssluq71eWcHLE - - - 304 - text/css 19.2765ms 
+2022-08-15 18:29:56.4575|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 32.0917ms 
+2022-08-15 18:30:16.3025|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/ - - 
+2022-08-15 18:30:16.3025|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:30:16.3025|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller LoggingNlogLibrary.Controllers.HomeController (LoggingNlogLibrary). 
+2022-08-15 18:30:16.3025|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController 
+2022-08-15 18:30:16.3025|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! 
+2022-08-15 18:30:16.3025|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2022-08-15 18:30:16.3288|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 14.4242ms. 
+2022-08-15 18:30:16.3288|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary) in 16.2451ms 
+2022-08-15 18:30:16.3288|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:30:16.3288|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/ - - - 200 - text/html;+charset=utf-8 27.8206ms 
+2022-08-15 18:30:16.3424|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - 
+2022-08-15 18:30:16.3424|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 0.7584ms 
+2022-08-15 18:30:16.3424|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - 
+2022-08-15 18:30:16.3495|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 6.1828ms 
+2022-08-15 18:30:16.4146|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/favicon.ico - - 
+2022-08-15 18:30:16.4146|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /favicon.ico was not modified 
+2022-08-15 18:30:16.4146|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/favicon.ico - - - 304 - image/x-icon 1.0837ms 
+2022-08-15 18:31:32.3056|63|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\mrtag\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2022-08-15 18:31:32.5563|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 
+2022-08-15 18:31:32.5734|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 
+2022-08-15 18:31:32.5734|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-08-15 18:31:32.5734|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-08-15 18:31:32.5734|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ 
+2022-08-15 18:31:33.4144|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/ - - 
+2022-08-15 18:31:33.4787|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:31:33.5213|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller LoggingNlogLibrary.Controllers.HomeController (LoggingNlogLibrary). 
+2022-08-15 18:31:33.5213|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController 
+2022-08-15 18:31:33.5213|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! 
+2022-08-15 18:31:33.5421|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2022-08-15 18:31:33.8238|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 281.6013ms. 
+2022-08-15 18:31:33.8395|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary) in 317.7387ms 
+2022-08-15 18:31:33.8395|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:31:33.8997|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - 
+2022-08-15 18:31:33.8997|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - 
+2022-08-15 18:31:33.8997|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/ - - - 200 - text/html;+charset=utf-8 489.0297ms 
+2022-08-15 18:31:33.9156|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 15.7393ms 
+2022-08-15 18:31:33.9280|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 28.2093ms 
+2022-08-15 18:31:40.4977|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/ - - 
+2022-08-15 18:31:40.4977|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:31:40.4977|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller LoggingNlogLibrary.Controllers.HomeController (LoggingNlogLibrary). 
+2022-08-15 18:31:40.4977|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController 
+2022-08-15 18:31:40.4977|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! 
+2022-08-15 18:31:40.4977|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2022-08-15 18:31:40.5135|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 10.5875ms. 
+2022-08-15 18:31:40.5135|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary) in 12.0795ms 
+2022-08-15 18:31:40.5135|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:31:40.5135|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/ - - - 200 - text/html;+charset=utf-8 17.0797ms 
+2022-08-15 18:31:40.5262|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - 
+2022-08-15 18:31:40.5262|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - 
+2022-08-15 18:31:40.5262|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 1.0543ms 
+2022-08-15 18:31:40.5422|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 15.4867ms 
+2022-08-15 18:31:40.6450|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/ - - 
+2022-08-15 18:31:40.6450|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:31:40.6450|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller LoggingNlogLibrary.Controllers.HomeController (LoggingNlogLibrary). 
+2022-08-15 18:31:40.6450|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController 
+2022-08-15 18:31:40.6450|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! 
+2022-08-15 18:31:40.6450|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2022-08-15 18:31:40.6611|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 13.7747ms. 
+2022-08-15 18:31:40.6611|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary) in 14.858ms 
+2022-08-15 18:31:40.6611|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:31:40.6611|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/ - - - 200 - text/html;+charset=utf-8 18.2481ms 
+2022-08-15 18:31:40.6611|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - 
+2022-08-15 18:31:40.6611|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - 
+2022-08-15 18:31:40.6611|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 0.4802ms 
+2022-08-15 18:31:40.6852|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 14.0336ms 
+2022-08-15 18:31:40.7795|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/ - - 
+2022-08-15 18:31:40.7795|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:31:40.7795|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller LoggingNlogLibrary.Controllers.HomeController (LoggingNlogLibrary). 
+2022-08-15 18:31:40.7795|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController 
+2022-08-15 18:31:40.7795|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! 
+2022-08-15 18:31:40.7795|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2022-08-15 18:31:40.7920|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 7.2776ms. 
+2022-08-15 18:31:40.7920|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary) in 11.5908ms 
+2022-08-15 18:31:40.7920|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:31:40.7920|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/ - - - 200 - text/html;+charset=utf-8 14.4852ms 
+2022-08-15 18:31:40.8035|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - 
+2022-08-15 18:31:40.8035|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - 
+2022-08-15 18:31:40.8035|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 0.4919ms 
+2022-08-15 18:31:40.8169|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 13.5460ms 
+2022-08-15 18:31:40.9320|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/ - - 
+2022-08-15 18:31:40.9320|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:31:40.9320|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller LoggingNlogLibrary.Controllers.HomeController (LoggingNlogLibrary). 
+2022-08-15 18:31:40.9320|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController 
+2022-08-15 18:31:40.9320|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! 
+2022-08-15 18:31:40.9320|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2022-08-15 18:31:40.9427|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 6.9374ms. 
+2022-08-15 18:31:40.9427|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary) in 9.0512ms 
+2022-08-15 18:31:40.9427|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:31:40.9427|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/ - - - 200 - text/html;+charset=utf-8 13.0736ms 
+2022-08-15 18:31:40.9427|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - 
+2022-08-15 18:31:40.9427|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - 
+2022-08-15 18:31:40.9427|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 0.4796ms 
+2022-08-15 18:31:40.9614|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 9.8197ms 
+2022-08-15 18:31:41.0729|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/ - - 
+2022-08-15 18:31:41.0729|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:31:41.0729|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller LoggingNlogLibrary.Controllers.HomeController (LoggingNlogLibrary). 
+2022-08-15 18:31:41.0729|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController 
+2022-08-15 18:31:41.0729|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! 
+2022-08-15 18:31:41.0729|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2022-08-15 18:31:41.0729|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 5.7389ms. 
+2022-08-15 18:31:41.0817|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary) in 7.0248ms 
+2022-08-15 18:31:41.0817|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:31:41.0817|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/ - - - 200 - text/html;+charset=utf-8 10.1663ms 
+2022-08-15 18:31:41.0817|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - 
+2022-08-15 18:31:41.0817|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - 
+2022-08-15 18:31:41.0817|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 0.4214ms 
+2022-08-15 18:31:41.0817|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 6.9244ms 
+2022-08-15 18:31:41.2155|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/ - - 
+2022-08-15 18:31:41.2155|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:31:41.2155|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller LoggingNlogLibrary.Controllers.HomeController (LoggingNlogLibrary). 
+2022-08-15 18:31:41.2155|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController 
+2022-08-15 18:31:41.2155|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! 
+2022-08-15 18:31:41.2155|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2022-08-15 18:31:41.2230|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 5.4203ms. 
+2022-08-15 18:31:41.2230|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary) in 6.3384ms 
+2022-08-15 18:31:41.2230|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:31:41.2230|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/ - - - 200 - text/html;+charset=utf-8 8.7994ms 
+2022-08-15 18:31:41.2230|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - 
+2022-08-15 18:31:41.2230|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - 
+2022-08-15 18:31:41.2230|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 0.6915ms 
+2022-08-15 18:31:41.2420|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 10.5233ms 
+2022-08-15 18:32:01.5950|63|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\mrtag\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2022-08-15 18:32:01.9549|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 
+2022-08-15 18:32:01.9830|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 
+2022-08-15 18:32:01.9830|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-08-15 18:32:01.9892|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-08-15 18:32:01.9892|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ 
+2022-08-15 18:32:02.7459|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/ - - 
+2022-08-15 18:32:02.8317|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:32:02.8755|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller LoggingNlogLibrary.Controllers.HomeController (LoggingNlogLibrary). 
+2022-08-15 18:32:02.8755|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController 
+2022-08-15 18:32:02.8815|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! 
+2022-08-15 18:32:02.8815|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2022-08-15 18:32:03.1144|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 225.7276ms. 
+2022-08-15 18:32:03.1144|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary) in 244.9824ms 
+2022-08-15 18:32:03.1144|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:32:03.1582|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/lib/bootstrap/dist/css/bootstrap.min.css - - 
+2022-08-15 18:32:03.1582|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - - 
+2022-08-15 18:32:03.1582|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/lib/jquery/dist/jquery.min.js - - 
+2022-08-15 18:32:03.1631|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/ - - - 200 - text/html;+charset=utf-8 420.6238ms 
+2022-08-15 18:32:03.1631|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /lib/jquery/dist/jquery.min.js was not modified 
+2022-08-15 18:32:03.1631|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified 
+2022-08-15 18:32:03.1631|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /css/site.css was not modified 
+2022-08-15 18:32:03.1631|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/lib/bootstrap/dist/css/bootstrap.min.css - - - 304 - text/css 16.4180ms 
+2022-08-15 18:32:03.1631|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - - - 304 - text/css 16.4180ms 
+2022-08-15 18:32:03.1631|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/lib/jquery/dist/jquery.min.js - - - 304 - application/javascript 15.1373ms 
+2022-08-15 18:32:03.1815|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - 
+2022-08-15 18:32:03.1815|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - - 
+2022-08-15 18:32:03.1815|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified 
+2022-08-15 18:32:03.1815|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /js/site.js was not modified 
+2022-08-15 18:32:03.1815|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - - 304 - application/javascript 0.7343ms 
+2022-08-15 18:32:03.1815|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - - - 304 - application/javascript 0.4539ms 
+2022-08-15 18:32:03.1815|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - 
+2022-08-15 18:32:03.1815|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 4.0858ms 
+2022-08-15 18:32:03.1954|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - 
+2022-08-15 18:32:03.2213|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 25.8462ms 
+2022-08-15 18:32:29.1581|63|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\mrtag\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2022-08-15 18:32:29.4719|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 
+2022-08-15 18:32:29.4876|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 
+2022-08-15 18:32:29.4890|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-08-15 18:32:29.4890|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-08-15 18:32:29.4890|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ 
+2022-08-15 18:32:30.1855|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/ - - 
+2022-08-15 18:32:30.3084|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:32:30.3450|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller LoggingNlogLibrary.Controllers.HomeController (LoggingNlogLibrary). 
+2022-08-15 18:32:30.3450|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController 
+2022-08-15 18:32:30.3501|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! 
+2022-08-15 18:32:30.3501|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2022-08-15 18:32:30.5343|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 175.2023ms. 
+2022-08-15 18:32:30.5412|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary) in 195.9301ms 
+2022-08-15 18:32:30.5412|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:32:30.5800|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - 
+2022-08-15 18:32:30.5800|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - 
+2022-08-15 18:32:30.5800|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/ - - - 200 - text/html;+charset=utf-8 402.6928ms 
+2022-08-15 18:32:30.5934|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 13.3143ms 
+2022-08-15 18:32:30.6040|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 23.9208ms 
+2022-08-15 18:32:59.8156|63|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\mrtag\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2022-08-15 18:33:00.1493|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 
+2022-08-15 18:33:00.1726|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 
+2022-08-15 18:33:00.1726|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-08-15 18:33:00.1778|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-08-15 18:33:00.1778|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ 
+2022-08-15 18:33:01.0151|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/ - - 
+2022-08-15 18:33:01.0865|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:33:01.1161|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller LoggingNlogLibrary.Controllers.HomeController (LoggingNlogLibrary). 
+2022-08-15 18:33:01.1161|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController 
+2022-08-15 18:33:01.1161|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! 
+2022-08-15 18:33:01.1356|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2022-08-15 18:33:01.3225|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 193.2784ms. 
+2022-08-15 18:33:01.3317|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary) in 215.2411ms 
+2022-08-15 18:33:01.3317|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:33:01.3815|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/ - - - 200 - text/html;+charset=utf-8 371.1457ms 
+2022-08-15 18:33:01.3815|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - 
+2022-08-15 18:33:01.3815|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - 
+2022-08-15 18:33:01.3949|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 11.9866ms 
+2022-08-15 18:33:01.3949|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 25.1375ms 
+2022-08-15 18:34:31.8119|63|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\mrtag\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2022-08-15 18:34:32.1129|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 
+2022-08-15 18:34:32.1283|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 
+2022-08-15 18:34:32.1302|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-08-15 18:34:32.1302|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-08-15 18:34:32.1302|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ 
+2022-08-15 18:34:32.8888|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/ - - 
+2022-08-15 18:34:32.9682|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:34:33.0228|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller LoggingNlogLibrary.Controllers.HomeController (LoggingNlogLibrary). 
+2022-08-15 18:34:33.0228|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController 
+2022-08-15 18:34:33.0228|0|INFO|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! 
+2022-08-15 18:34:33.0375|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2022-08-15 18:34:33.2635|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 226.5028ms. 
+2022-08-15 18:34:33.2719|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary) in 248.6938ms 
+2022-08-15 18:34:33.2719|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:34:33.3166|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - 
+2022-08-15 18:34:33.3166|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - 
+2022-08-15 18:34:33.3166|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/ - - - 200 - text/html;+charset=utf-8 432.5650ms 
+2022-08-15 18:34:33.3337|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 17.1166ms 
+2022-08-15 18:34:33.3479|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 31.2414ms 
+2022-08-15 18:35:15.0998|63|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\mrtag\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2022-08-15 18:35:15.4404|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 
+2022-08-15 18:35:15.4615|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 
+2022-08-15 18:35:15.4615|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-08-15 18:35:15.4615|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-08-15 18:35:15.4615|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ 
+2022-08-15 18:35:15.9753|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/ - - 
+2022-08-15 18:35:16.0511|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:35:16.0881|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller LoggingNlogLibrary.Controllers.HomeController (LoggingNlogLibrary). 
+2022-08-15 18:35:16.0881|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController 
+2022-08-15 18:35:16.0881|0|WARN|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! 
+2022-08-15 18:35:16.1056|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2022-08-15 18:35:16.2760|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 172.8215ms. 
+2022-08-15 18:35:16.2760|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary) in 194.0843ms 
+2022-08-15 18:35:16.2760|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:35:16.3344|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/ - - - 200 - text/html;+charset=utf-8 361.5787ms 
+2022-08-15 18:35:16.3344|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - 
+2022-08-15 18:35:16.3344|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - 
+2022-08-15 18:35:16.3531|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 17.5228ms 
+2022-08-15 18:35:16.3641|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 28.5627ms 
+2022-08-15 18:37:36.5911|63|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\mrtag\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2022-08-15 18:37:36.8904|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7162 
+2022-08-15 18:37:36.9086|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5162 
+2022-08-15 18:37:36.9107|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-08-15 18:37:36.9107|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-08-15 18:37:36.9107|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\mrtag\source\repos\AspNetCoreLibrary\AspNetCoreLibrary\LoggingNlogLibrary\ 
+2022-08-15 18:37:37.6682|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/ - - 
+2022-08-15 18:37:37.7372|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:37:37.7517|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller LoggingNlogLibrary.Controllers.HomeController (LoggingNlogLibrary). 
+2022-08-15 18:37:37.7517|1|INFO|LoggingNlogLibrary.Controllers.HomeController|NLog injected into HomeController 
+2022-08-15 18:37:38.5887|0|WARN|LoggingNlogLibrary.Controllers.HomeController|Hello, this is the index! 
+2022-08-15 18:37:38.6015|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2022-08-15 18:37:38.8154|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 215.3448ms. 
+2022-08-15 18:37:38.8230|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary) in 1071.0056ms 
+2022-08-15 18:37:38.8230|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'LoggingNlogLibrary.Controllers.HomeController.Index (LoggingNlogLibrary)' 
+2022-08-15 18:37:38.8730|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_vs/browserLink - - 
+2022-08-15 18:37:38.8730|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/LoggingNlogLibrary.styles.css?v=71XsqcOYfc-y2yJEQwHXcCoypqH6Syssluq71eWcHLE - - 
+2022-08-15 18:37:38.8730|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - 
+2022-08-15 18:37:38.8730|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/ - - - 200 - text/html;+charset=utf-8 1211.1528ms 
+2022-08-15 18:37:38.8908|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 17.6448ms 
+2022-08-15 18:37:38.8908|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /LoggingNlogLibrary.styles.css was not modified 
+2022-08-15 18:37:38.8908|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/LoggingNlogLibrary.styles.css?v=71XsqcOYfc-y2yJEQwHXcCoypqH6Syssluq71eWcHLE - - - 304 - text/css 18.7315ms 
+2022-08-15 18:37:38.9037|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7162/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 30.6667ms 
