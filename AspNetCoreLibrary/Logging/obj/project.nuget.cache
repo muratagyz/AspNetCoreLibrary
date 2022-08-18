@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lZ44ZZ3QOmJARM79Bb+XUHyz8aqXyzMixAIoKU7s0RwYO82Or9Bqa0TRNAO97BXsc40l3sbQSOCuQEBw4DV0sw==",
+  "dgSpecHash": "8EGEufsSsgErmum1+DwrNNdOhCgbYSMSlqQITb9qvW16RHH6Rj6KB6cvv195bY+JWo5Hn6zV9F0dXcKz+P5K8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mrtag\\source\\repos\\AspNetCoreLibrary\\AspNetCoreLibrary\\Logging\\Logging.csproj",
+  "projectFilePath": "C:\\Users\\mrtag\\Source\\Repos\\muratagyz\\AspNetCoreLibrary\\AspNetCoreLibrary\\Logging\\Logging.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
