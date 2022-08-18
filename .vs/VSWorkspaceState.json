@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AspNetCoreLibrary",
+    "\\AspNetCoreLibrary\\ErrorHandling",
+    "\\AspNetCoreLibrary\\ErrorHandling\\Controllers",
+    "\\AspNetCoreLibrary\\LoggingNlogLibrary"
   ],
-  "SelectedNode": "\\AspNetCoreLibrary.sln",
+  "SelectedNode": "\\AspNetCoreLibrary\\ErrorHandling\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

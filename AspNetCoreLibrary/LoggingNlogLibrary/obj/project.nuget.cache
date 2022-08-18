@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AvAyimSQJp6nvV818C0vFDWf+R4vemjBUteMSPHIUAC66mCMVuYy9ZLStrnuzQ4YjXrfSfCNxnAM4qShgRSDUw==",
+  "dgSpecHash": "kS8aQG4ioiABJXZ2dWOejAPj6XcQOiPGUbcTK2zoorrQyxa/m125i7m/6x02lQ/8BS1HHyQtrRxM7fYPrm/6iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mrtag\\source\\repos\\AspNetCoreLibrary\\AspNetCoreLibrary\\LoggingNlogLibrary\\LoggingNlogLibrary.csproj",
+  "projectFilePath": "C:\\Users\\mrtag\\Source\\Repos\\muratagyz\\AspNetCoreLibrary\\AspNetCoreLibrary\\LoggingNlogLibrary\\LoggingNlogLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrtag\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mrtag\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
