@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggingNlogLibrary", "Loggi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErrorHandling", "ErrorHandling\ErrorHandling.csproj", "{C71E7C8F-146F-4245-A089-9CFECE84FE87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreLibrary.FluentValidation", "FluentValidation\AspNetCoreLibrary.FluentValidation.csproj", "{5D4A14FC-5427-44A3-A6C8-2B6B126A0D8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreLibrary.FluentValidation", "FluentValidation\AspNetCoreLibrary.FluentValidation.csproj", "{5D4A14FC-5427-44A3-A6C8-2B6B126A0D8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swagger", "Swagger\Swagger.csproj", "{37FE8A5F-5C72-4177-A92A-F066110C4FD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{5D4A14FC-5427-44A3-A6C8-2B6B126A0D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D4A14FC-5427-44A3-A6C8-2B6B126A0D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D4A14FC-5427-44A3-A6C8-2B6B126A0D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37FE8A5F-5C72-4177-A92A-F066110C4FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37FE8A5F-5C72-4177-A92A-F066110C4FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37FE8A5F-5C72-4177-A92A-F066110C4FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37FE8A5F-5C72-4177-A92A-F066110C4FD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
