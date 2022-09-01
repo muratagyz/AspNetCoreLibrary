@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Swagger</name>
+    </assembly>
+    <members>
+        <member name="M:Swagger.Controllers.ProductsController.GetProducts">
+            <summary>
+            Bu endpoint tüm ürünleri geri döner
+            </summary>
+            <remarks>
+            örnek : https://localhost:7048/api/Products 
+            </remarks>
+            <returns></returns>
+        </member>
+        <member name="M:Swagger.Controllers.ProductsController.GetProduct(System.Int32)">
+            <summary>
+            Bu endpoint verilen id sahip ürünü döner
+            </summary>
+            <param name="id">Ürünün id'si</param>
+            <returns></returns>
+            <response code="404">
+            Verilen id'ye sahip ürün bulunamadı
+            </response>
+            <response code="200">
+            Verilen id'ye sahip ürün var
+            </response>
+        </member>
+    </members>
+</doc>
