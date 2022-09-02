@@ -1,4 +1,6 @@
-﻿using FluentValidation;
+﻿using AspNetCoreLibrary.FluentValidation.Dtos;
+using AutoMapper;
+using FluentValidation;
 using FluentValidation.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -11,22 +13,25 @@ namespace AspNetCoreLibrary.FluentValidation.Controllers
     {
         private readonly AppDbContext _context;
         private readonly IValidator<Customer> _validator;
+        private readonly IMapper _mapper;
 
-        public CustomersApiController(AppDbContext context, IValidator<Customer> validator)
+        public CustomersApiController(AppDbContext context, IValidator<Customer> validator, IMapper mapper)
         {
             _context = context;
             _validator = validator;
+            _mapper = mapper;
         }
 
         // GET: api/CustomersApi
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Customer>>> GetCustomers()
+        public async Task<ActionResult<IEnumerable<CustomerDto>>> GetCustomers()
         {
             if (_context.Customers == null)
             {
                 return NotFound();
             }
-            return await _context.Customers.ToListAsync();
+            List<Customer> customers = await _context.Customers.ToListAsync();
+            return _mapper.Map<List<CustomerDto>>(customers);
         }
 
         // GET: api/CustomersApi/5
@@ -45,6 +50,25 @@ namespace AspNetCoreLibrary.FluentValidation.Controllers
             }
 
             return customer;
+        }
+
+        [Route("MappingOrnek")]
+        [HttpGet("{id}")]
+        public IActionResult MappingOrnek()
+        {
+            Customer customer = new()
+            {
+                Id = 1,
+                Name = "Murat",
+                Email = "mrt.agyzz.00@outlook.com",
+                Age = 23,
+                CreditCard = new CreditCard()
+                {
+                    Number = "111111111111",
+                    ValidDate = DateTime.Now
+                }
+            };
+            return Ok(_mapper.Map<CustomerDto>(customer));
         }
 
         // PUT: api/CustomersApi/5
@@ -81,19 +105,20 @@ namespace AspNetCoreLibrary.FluentValidation.Controllers
         // POST: api/CustomersApi
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<Customer>> PostCustomer(Customer customer)
+        public async Task<ActionResult<Customer>> PostCustomer(CustomerDto customer)
         {
-            var result = _validator.Validate(customer);
+            var customerMap = _mapper.Map<Customer>(customer);
+            var result = _validator.Validate(customerMap);
 
             if (result.IsValid)
             {
-                _context.Customers.Add(customer);
+                _context.Customers.Add(customerMap);
                 await _context.SaveChangesAsync();
 
-                return CreatedAtAction("GetCustomer", new { id = customer.Id }, customer);
+                return CreatedAtAction("GetCustomer", new { id = customerMap.Id }, customerMap);
             }
 
-            return BadRequest(result.Errors.Select(r=>new { Property = r.PropertyName, Error = r.ErrorMessage }));
+            return BadRequest(result.Errors.Select(r => new { Property = r.PropertyName, Error = r.ErrorMessage }));
         }
 
         // DELETE: api/CustomersApi/5
