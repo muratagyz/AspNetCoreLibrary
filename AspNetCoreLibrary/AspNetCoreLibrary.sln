@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreLibrary.FluentVal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Swagger", "Swagger\Swagger.csproj", "{37FE8A5F-5C72-4177-A92A-F066110C4FD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateLimit.API", "RateLimit.API\RateLimit.API.csproj", "{5246D71B-3FC2-4A47-AE84-963A19F5F341}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RateLimit.API", "RateLimit.API\RateLimit.API.csproj", "{5246D71B-3FC2-4A47-AE84-963A19F5F341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangfire.Web", "Hangfire.Web\Hangfire.Web.csproj", "{C785E1A2-B727-4BF1-A41C-112B5D1905E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{5246D71B-3FC2-4A47-AE84-963A19F5F341}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5246D71B-3FC2-4A47-AE84-963A19F5F341}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5246D71B-3FC2-4A47-AE84-963A19F5F341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C785E1A2-B727-4BF1-A41C-112B5D1905E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C785E1A2-B727-4BF1-A41C-112B5D1905E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C785E1A2-B727-4BF1-A41C-112B5D1905E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C785E1A2-B727-4BF1-A41C-112B5D1905E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
